@@ -1,4 +1,4 @@
-#EpicBNC ZNC Log Grbber
+#EpicBNC ZNC Log Grabber
 ###Requirements:
 
 
