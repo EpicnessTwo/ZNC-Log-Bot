@@ -1,6 +1,6 @@
-(\__/)   __________________________   (\__/)
-(=^~^)/) Welcome to EpicKitty's BNC (\(^~^=)
-(")(")   ‾‾\BNC Log Grabber Bot/‾‾‾   (")(")
+= (\__/)   __________________________   (\__/)
+= (=^~^)/) Welcome to EpicKitty's BNC (\(^~^=)
+= (")(")   ‾‾\BNC Log Grabber Bot/‾‾‾   (")(")
             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 Requirements:
